@@ -1,0 +1,1 @@
+export const getSongDetail = id => `/song/detail?ids=${id}`
